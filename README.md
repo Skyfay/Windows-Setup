@@ -1,5 +1,5 @@
 # Windows-Setup
-Ein Deutsches Powershell Script zur einrichtung von Windows Geräten
+Ein Deutsches Powershell Script zur einrichtung von Windows Geräten (Aktuell noch in der Entwicklung)
 
 **Voraussetzungen** 
 - Windows 10/ Windows Server 2012 R2 oder neuer.
