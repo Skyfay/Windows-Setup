@@ -15,6 +15,7 @@ Ein Deutsches Powershell Script zur einrichtung von Windows Geräten
 **Was kann das Script?**
 (Aktuell ist noch die alpha Phase)
 - Zwei Verschiedene Modien (Geführtes Setup und Single Setup)
+
 Grundlegende Funktionen:
 1. Auslesen der Seriennummer
 2. Ändern des Hostnamen
