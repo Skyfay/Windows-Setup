@@ -2,7 +2,7 @@
 Ein Deutsches Powershell Script zur einrichtung von Windows Geräten
 
 **Voraussetzungen** 
-- Windows 10/ Windows Server 2012 der neuer.
+- Windows 10/ Windows Server 2012 R2 oder neuer.
 - Administrator auf dem System.
 - Internet Verbindung, wenn Ihr direkt die .bat Datei verwenden wollt.
 
