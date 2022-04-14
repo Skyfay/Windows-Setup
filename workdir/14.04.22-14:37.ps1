@@ -101,6 +101,7 @@ $database_txt = "C:\skyfay.txt"
 
 if (Test-Path -Path $database_txt -PathType Leaf) {
     echo "Ich mache da weiter..."
+    #Weiteres wird hinzugefügt sobald es funktioniert
 }
 else {
     guided-setup
