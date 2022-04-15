@@ -17,9 +17,9 @@ Ein Deutsches Powershell Script zur einrichtung von Windows Geräten (Aktuell no
 - Zwei Verschiedene Modien (Geführtes Setup und Single Setup)
 - Speichert den letzten Stand beim Geführten Setup, dass nach einem Neustart am selben Ort fortgefahren werden kann.
 
-Grundlegende Funktionen:
+**Grundlegende Funktionen:**
 1. Auslesen der Seriennummer
 2. Ändern des Hostnamen
 
-(Weitere Funktionen folgen)
+_(Weitere Funktionen folgen)_
 
