@@ -74,3 +74,6 @@ function new_user {
 } #function
 cls
 new_user
+
+
+#Muss noch bearbeitet werden, der Teil wird nochmals neu geschrieben...
